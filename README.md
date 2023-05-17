@@ -1,5 +1,5 @@
 
-![github](https://user-images.githubusercontent.com/94652702/220391756-489814fb-84c0-4bb7-a44b-712860464681.png)
+![github](https://github.com/taianekarine/foodexplorer-front/assets/94652702/7d8e5d9f-5ef9-4191-8da0-3a8c2647c069)
 
 
 
