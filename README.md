@@ -1,5 +1,5 @@
 
-![github](https://www.canva.com/design/DAFROxYcQv8/taGhSd8Gs8WvDumsgR9YgA/edit?utm_content=DAFROxYcQv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![github](https://github.com/taianekarine/taianekarine/assets/94652702/158b4131-ef22-4e35-a0b9-f05cf2094d66)
 
 
 
