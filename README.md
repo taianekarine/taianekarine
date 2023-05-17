@@ -1,5 +1,5 @@
 
-![github](https://github.com/taianekarine/foodexplorer-front/assets/94652702/7d8e5d9f-5ef9-4191-8da0-3a8c2647c069)
+![github](https://www.canva.com/design/DAFROxYcQv8/taGhSd8Gs8WvDumsgR9YgA/edit?utm_content=DAFROxYcQv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
