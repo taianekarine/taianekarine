@@ -1,5 +1,5 @@
 
-![github](https://github.com/taianekarine/taianekarine/assets/94652702/158b4131-ef22-4e35-a0b9-f05cf2094d66)
+![github](https://github.com/taianekarine/taianekarine/assets/94652702/dfe4a63f-cd38-4e3f-9306-fe705e8b5274)
 
 
 
