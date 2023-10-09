@@ -40,4 +40,6 @@ I don't know English, I use the translator to communicate and to develop the cha
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-karine-ab583b123/)
 
+![Snake animation](https://github.com/taianekarine/taianekarine/blob/output/github-contribution-grid-snake.svg)
+
 
