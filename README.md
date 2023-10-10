@@ -2,10 +2,10 @@
   <tr>
     <td align="left">
       <h1></h1>
-          </br>
           I have training in Rocketsat's Explorer course
           </br></br>
           - Full-Stack
+          </br>
             <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp
           </br></br>
           - Front-end
