@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td align="left">
-      
           I have training in Rocketsat's Explorer course
           </br></br>
           - Full-Stack
