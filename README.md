@@ -55,13 +55,23 @@
       Ask anything, and I'll do my best to answer, even if I don't know.
     </td>
     <td align="right">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/26090c05-5d2c-41ba-be92-f77df46c8022">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
-      <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
-    </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/26090c05-5d2c-41ba-be92-f77df46c8022">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
+        <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/26090c05-5d2c-41ba-be92-f77df46c8022">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
+        <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
+      </picture>
     </td>
   </tr>
 </table>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taianekarine&show_icons=true&theme=gruvbox) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taianekarine&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taianekarine&layout=compact)
