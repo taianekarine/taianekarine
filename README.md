@@ -1,45 +1,149 @@
+<table>
+  <tr>
+    <td align="left">
+      <h1>Full-Stack Developer Jr.
+        <p>OPEN TO WORK</p>
+      </h1>
+      <ul>
+        <li>
+          I have training in Rocketsat's Explorer course
+          <ul class="techs">
+            <li>
+            <p class="topic">Full-Stack</p>
+              <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp
+            </li>
+          </ul>
+          <ul class="techs">
+            <li>
+            <p class="topic">Front-end</p>
+              <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp
+              <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp
+              <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>&nbsp
+            </li>
+          </ul>
+          <ul class="techs">
+            <li>
+            <p class="topic">Back-end</p>
+              <img alt="SQL" src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>&nbsp
+              <img alt="Knex" src="https://img.shields.io/badge/-Knex-05122A?style=flat&logo=knex"/>&nbsp
+              <img alt="Express" src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>&nbsp
+            </li>
+          </ul>
+          <ul class="techs">
+            <li>
+            <p class="topic">Others</p>
+              <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>&nbsp
+              <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp
+            </li>
+          </ul>
+        </li>
+        <li>
+          I'm learning:
+            <ul class="techs">
+              <li>
+                <img alt="ReactNative" src="https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react"/>&nbsp
+                <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>&nbsp
+                <img alt="Prisma" src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=white"/>&nbsp
+                <img alt="Postegresql" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>&nbsp
+                <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma"/>&nbsp
+                <img alt="Nestjs" src="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs"/>&nbsp
+              </li>
+            </ul>
+        </li>
+        <li>
+          Development Tools:
+            <ul class="techs">
+              <li>
+                <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp
+                <img alt="Docker" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp
+                <img alt="Insominia" src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia"/>&nbsp
+              </li>
+            </ul>
+        </li>
+        <li>
+          Social Media:
+            <ul class="techs">
+              <li>
+                <a href="https://www.linkedin.com/in/taianekarine/" target="_blank">
+                  <img alt="Linkedin" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>&nbsp
+                </a>
+                <a href="mailto:taianekas.dev0@gmail.com" target="_blank">
+                  <img alt="GMAIL" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>&nbsp
+                </a>
+                <a href="https://www.instagram.com/taianekarine/" target="_blank">
+                  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+                </a>
+              </li>
+            </ul>
+        </li>
+        <li> 
+          Ask anything, and I'll do my best to answer, even if I don't know.
+        </li>
+      </ul>
+      </ul>
+      <h1 class="none"></h1>
+    </td>
+    <td align="right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/26090c05-5d2c-41ba-be92-f77df46c8022">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
+      <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
+    </picture>
+    </td>
+  </tr>
+</table>
 
-![github](https://github.com/taianekarine/taianekarine/assets/94652702/dfe4a63f-cd38-4e3f-9306-fe705e8b5274)
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+  }
 
+  h1 {
+    color: #f59e0b;
+  }
 
+  p {
+    font-size: 10px;
+    color: #e11d48;
+    margin-left: 220px;
+  }
 
-# Hi, I'm Taiane! 👋
+  .topic {
+    margin: 5px 0;
+    font-size: 12px;
+    color: #f59e0b;
+    font-weight: bold;
+  }
 
-I like to be called Tai or Duronne.
+  ul {
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+  }
 
-I am passionate about animals, especially cats. I am unemployed so I spend my time studying and playing with my cat named Yuumi.
+  .techs {
+    list-style-type: none;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 5px 0;
+  }
 
-I am currently studying Javascript, CSS and HTML at Rocketseat.
+  ul li a {
+    text-decoration: none;
+    color: #f59e0b;
+  }
 
-I don't know English, I use the translator to communicate and to develop the challenges that the Explorer course proposes.
-## 
-🔭 I'm working on my apprenticeship.
+  .none {
+    margin-top: 20px
+  }
 
-🌱 I'm learning:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
-👯 I'm looking to collaborate in helping my classmates to develop the Explorer 06 course challenges.
-
-🤔 I'm looking for help with my doubts about matters related to the technologies mentioned above.
-
-💬 Ask anything you want and I will answer what I can and I will spare no effort to answer any question, as much as I don't know anything about it.
-
-📫 How to reach me: By email (taianekas.dev@gmail.com) and Whatsapp +5534996305110.
-
-😄 Pronouns: Tai or Duronne
-
-⚡ Curiosity: Universe.
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-karine-ab583b123/)
-
-![Snake animation](https://github.com/taianekarine/taianekarine/blob/output/github-contribution-grid-snake.svg)
-
-
+  td {
+    text-align: top;
+  }
+</style>
