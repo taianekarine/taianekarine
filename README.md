@@ -2,7 +2,6 @@
   <tr>
     <td align="left">
       <h1>Full-Stack Developer Jr.
-        <p>OPEN TO WORK</p>
       </h1>
       <ul>
         <li>
@@ -92,58 +91,3 @@
     </td>
   </tr>
 </table>
-
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: 0;
-  }
-
-  h1 {
-    color: #f59e0b;
-  }
-
-  p {
-    font-size: 10px;
-    color: #e11d48;
-    margin-left: 220px;
-  }
-
-  .topic {
-    margin: 5px 0;
-    font-size: 12px;
-    color: #f59e0b;
-    font-weight: bold;
-  }
-
-  ul {
-    margin-bottom: 5px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    list-style-type: none;
-  }
-
-  .techs {
-    list-style-type: none;
-    width: 400px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin: 5px 0;
-  }
-
-  ul li a {
-    text-decoration: none;
-    color: #f59e0b;
-  }
-
-  .none {
-    margin-top: 20px
-  }
-
-  td {
-    text-align: top;
-  }
-</style>
