@@ -92,12 +92,19 @@ Currently developing **TKS Forge**, a platform focused on reusable AI Agents, Wo
 
 </td>
 
-<td width="42%" align="right">
-
+<td width="42%" valign="top" align="center">
+  <br><br><br>
 <picture>
+  <img width="315" height="615" alt="3 - Cartão de perfil moderno estatico" src="https://github.com/user-attachments/assets/175389ff-5d54-49b1-93c3-243208e6ebcd" />
+  
+  <!--
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/26090c05-5d2c-41ba-be92-f77df46c8022">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
   <img src="https://github.com/taianekarine/taianekarine/assets/94652702/1f2d1160-f01c-41fd-a524-62127fc0acfa">
+  -->
+  
+  
+  
 </picture>
 
 </td>
@@ -106,5 +113,5 @@ Currently developing **TKS Forge**, a platform focused on reusable AI Agents, Wo
 
 <br>
 
-| ![Taiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taianekarine&show_icons=true&theme=gruvbox) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taianekarine&layout=compact&theme=gruvbox) |
-|---|---|
+
+
