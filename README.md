@@ -10,7 +10,7 @@ I'm building **AI-powered automation platforms**.
 
 Currently developing **Lume**, a platform focused on reusable AI Agents, Workflow Automation and Infrastructure as Code.
 
-*<sub>Atualmente desenvolvendo o **TKS Forge**, uma plataforma focada em Agentes de IA reutilizáveis, Automação de Workflows e Infraestrutura como Código.</sub>*
+*<sub>Atualmente desenvolvendo o **Lume**, uma plataforma focada em Agentes de IA reutilizáveis, Automação de Workflows e Infraestrutura como Código.</sub>*
 
 <br>
 
@@ -54,7 +54,7 @@ Currently developing **Lume**, a platform focused on reusable AI Agents, Workflo
 - WhatsApp Automation
 - Software Architecture
 - Infrastructure as Code
-- TKS Forge Platform
+- Lume
 
 *<sub>Meu foco atual é desenvolver agentes inteligentes, arquiteturas reutilizáveis e automações que resolvem problemas reais.</sub>*
 
