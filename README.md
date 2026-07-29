@@ -8,7 +8,7 @@ I'm building **AI-powered automation platforms**.
 
 *<sub>Estou construindo plataformas de automação movidas por Inteligência Artificial.</sub>*
 
-Currently developing **TKS Forge**, a platform focused on reusable AI Agents, Workflow Automation and Infrastructure as Code.
+Currently developing **Lume**, a platform focused on reusable AI Agents, Workflow Automation and Infrastructure as Code.
 
 *<sub>Atualmente desenvolvendo o **TKS Forge**, uma plataforma focada em Agentes de IA reutilizáveis, Automação de Workflows e Infraestrutura como Código.</sub>*
 
