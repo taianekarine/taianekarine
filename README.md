@@ -28,7 +28,6 @@ Currently developing **Lume**, a platform focused on reusable AI Agents, Workflo
 
 ### 🤖 AI & Automation
 
-<img alt="n8n" src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n"/>&nbsp;
 <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai"/>&nbsp;
 <img alt="Google Gemini" src="https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=googlegemini"/>&nbsp;
 <img alt="Evolution API" src="https://img.shields.io/badge/-Evolution_API-05122A?style=flat"/>&nbsp;
